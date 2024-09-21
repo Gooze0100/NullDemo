@@ -1,0 +1,14 @@
+C:\Local\NullDemoApp\NullDemo\bin\Debug\net8.0\NullDemo.exe
+C:\Local\NullDemoApp\NullDemo\bin\Debug\net8.0\NullDemo.deps.json
+C:\Local\NullDemoApp\NullDemo\bin\Debug\net8.0\NullDemo.runtimeconfig.json
+C:\Local\NullDemoApp\NullDemo\bin\Debug\net8.0\NullDemo.dll
+C:\Local\NullDemoApp\NullDemo\bin\Debug\net8.0\NullDemo.pdb
+C:\Local\NullDemoApp\NullDemo\obj\Debug\net8.0\NullDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Local\NullDemoApp\NullDemo\obj\Debug\net8.0\NullDemo.AssemblyInfoInputs.cache
+C:\Local\NullDemoApp\NullDemo\obj\Debug\net8.0\NullDemo.AssemblyInfo.cs
+C:\Local\NullDemoApp\NullDemo\obj\Debug\net8.0\NullDemo.csproj.CoreCompileInputs.cache
+C:\Local\NullDemoApp\NullDemo\obj\Debug\net8.0\NullDemo.dll
+C:\Local\NullDemoApp\NullDemo\obj\Debug\net8.0\refint\NullDemo.dll
+C:\Local\NullDemoApp\NullDemo\obj\Debug\net8.0\NullDemo.pdb
+C:\Local\NullDemoApp\NullDemo\obj\Debug\net8.0\NullDemo.genruntimeconfig.cache
+C:\Local\NullDemoApp\NullDemo\obj\Debug\net8.0\ref\NullDemo.dll
